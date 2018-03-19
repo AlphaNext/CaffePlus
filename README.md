@@ -1,6 +1,6 @@
 # Fork of Caffe from [rbgirshick's caffe-fast-rcnn](https://github.com/rbgirshick/caffe-fast-rcnn/tree/0dcd397b29507b8314e252e850518c5695efbb83)
 
-This is a forked repo. replace and add some layers in original [caffe-fast-rcnn](https://github.com/rbgirshick/caffe-fast-rcnn/tree/0dcd397b29507b8314e252e850518c5695efbb83)  using [BVLC caffe](https://github.com/BVLC/caffe) and [matthieudelaro's caffeBVLCplus](https://github.com/matthieudelaro/caffeBVLCplus). Many thanks to the following repo's authors:   
+This is a forked repo. replace and add some layers to original [caffe-fast-rcnn](https://github.com/rbgirshick/caffe-fast-rcnn/tree/0dcd397b29507b8314e252e850518c5695efbb83)  using [BVLC caffe](https://github.com/BVLC/caffe) and [matthieudelaro's caffeBVLCplus](https://github.com/matthieudelaro/caffeBVLCplus). Many thanks to the following repo's authors:   
 
 * [rbgirshick's caffe-fast-rcnn](https://github.com/rbgirshick/caffe-fast-rcnn/tree/0dcd397b29507b8314e252e850518c5695efbb83)   
 * [BVLC caffe](https://github.com/BVLC/caffe)   
