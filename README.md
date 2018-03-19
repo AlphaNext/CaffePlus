@@ -1,4 +1,15 @@
-# Caffe
+# Fork of Caffe from Caffe and rbgirshick's caffe-fast-rcnn
+
+This is a forked repo. Many thanks to the following repo's authors:   
+
+* [rbgirshick's caffe-fast-rcnn](https://github.com/rbgirshick/caffe-fast-rcnn/tree/0dcd397b29507b8314e252e850518c5695efbb83)   
+* [BVLC caffe](https://github.com/BVLC/caffe)   
+* [matthieudelaro's caffeBVLCplus](https://github.com/matthieudelaro/caffeBVLCplus)   
+* [NVlabs's PL4NN](https://github.com/NVlabs/PL4NN)   
+
+Thanks to [matthieudelaro's caffeBVLCplus](https://github.com/matthieudelaro/caffeBVLCplus), The **unpooling** layers provided by caffeBVLCplus have been add to this repo. You can use it to  set up some Encode-Decode CNN architectures. Perceptual Losses for Neural Networks ([PL4NN](https://github.com/NVlabs/PL4NN)) are also added.
+
+
 
 [![Build Status](https://travis-ci.org/BVLC/caffe.svg?branch=master)](https://travis-ci.org/BVLC/caffe)
 [![License](https://img.shields.io/badge/license-BSD-blue.svg)](LICENSE)
